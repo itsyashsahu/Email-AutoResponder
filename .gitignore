@@ -26,6 +26,9 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
+private_key.json
+credentials.json
+
 # local env files
 .env
 .env*.local
